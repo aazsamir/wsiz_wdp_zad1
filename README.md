@@ -1,0 +1,1 @@
+# wsiz_wdp_zad1
