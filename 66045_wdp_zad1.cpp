@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "\tZadanie 1" << endl89;
+    cout << "\tZadanie 1" << endl;
     cout << "Wypisanie numeru albumu" << endl;
     int album = 66045;
     cout << "Numer albumu: " << album << endl;
